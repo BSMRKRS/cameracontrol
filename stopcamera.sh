@@ -1,2 +1,2 @@
 #!/bin/bash
-killall mjpg-streamer
+killall mjpg_streamer
